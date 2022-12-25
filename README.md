@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RetiredDemon10
-- 👀 I’m interested in html, python and building software applications
-- 🌱 I’m currently learning HTML, CSS and SQl
+- 👀 I’m interested in JavaScript, python and building software applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +2348147810811 kingsleyjames520@gmail.com
 
