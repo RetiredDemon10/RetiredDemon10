@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RetiredDemon10
 - 👀 I’m interested in JavaScript, python and building software applications
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any projects involving HTML, CSS, JS or React.js
 - 📫 How to reach me +2348147810811 kingsleyjames520@gmail.com
 
 <!---
